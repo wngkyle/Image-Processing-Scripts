@@ -11,3 +11,6 @@ Practicing image processing, filtering, and transformation using python Pillow a
 - 2.4.2 Geometric Transformation using OpenCV
 - 2.5.1 Spatial Filtering using Pillow
 - 2.5.2 Spatial Filtering using OpenCV
+
+
+## Hi Austin

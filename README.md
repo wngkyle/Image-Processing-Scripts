@@ -1,5 +1,7 @@
 ## Image Processing Lab
 
+Practicing image processing, filtering, and transformation using python Pillow and OpenCV.
+
 - 2.1.1 Image Processing using Pillow
 - 2.1.2 Image Processing using OpenCV
 - 2.2.1 Basic Image Manipulation using Pillow 

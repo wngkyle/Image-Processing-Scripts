@@ -1,4 +1,4 @@
-## Image Processing Lab
+## Image Processing Scripts
 
 Practicing image processing, filtering, and transformation using python Pillow and OpenCV.
 
